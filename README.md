@@ -25,4 +25,4 @@ If the user enters anything other than 'y' or 'n', the program prompts them agai
 Make sure Python is installed on your system. Run the script using:
 
 ```bash
-python calculator.py
+python3 --version
