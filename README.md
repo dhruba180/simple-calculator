@@ -14,7 +14,7 @@ This is a simple command-line calculator built in Python. It allows users to per
 ## 🛠️ How It Works
 
 1. The user is prompted to enter two numbers.
-2. The user selects an operation (1-4).
+2. The user selects an operation (1-5).
 3. The result is displayed.
 4. The user can choose to continue or exit by entering 'y' or 'n'.
 
@@ -22,7 +22,6 @@ If the user enters anything other than 'y' or 'n', the program prompts them agai
 
 ## 💻 How to Run
 
-Make sure Python is installed on your system. Run the script using:
-
+Make sure Python is already installed on your system. Run the script using:
 ```bash
 python3 --version
