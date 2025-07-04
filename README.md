@@ -1,6 +1,6 @@
 # Simple Python Calculator (CLI-Based)
 
-This is a simple command-line calculator built in Python. It allows users to perform basic arithmetic operations such as addition, multiplication, division, and subtraction between two numbers.
+This is a simple command-line calculator built in Python. It allows users to perform basic arithmetic operations such as addition, multiplication, division, subtraction and  between two numbers.
 
 ## 🔢 Features
 
@@ -8,6 +8,7 @@ This is a simple command-line calculator built in Python. It allows users to per
 - Multiplication
 - Division
 - Subtraction
+- Percentage 
 - User-friendly input and loop system
 - Input validation for continuation choice
 
